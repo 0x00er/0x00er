@@ -22,6 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/Snow_flAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Art3mis" height="30" width="40" /></a>
 <a href="https://instagram.com/cyber_xacker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Art3mis" height="30" width="40" /></a>
+<a href="https://wa.me/7060817196" target="blank"><img align="center" src="https://static.whatsapp.net/rsrc.php/yz/r/lOol7j-zq4u.svg" alt="Art3mis" height="30" width="40" /></a>
 <a href="https://t.me/SnowflAI" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" alt="Art3mis" height="30" width="40" /></a>
 </p>
 
