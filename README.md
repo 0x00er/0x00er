@@ -36,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SnowflAI&show_icons=true&locale=en&theme=tokyonight" alt="Art3mis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SnowflAI&&theme=tokyonight" alt="Art3mis" /></p>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
