@@ -1,5 +1,5 @@
 ![MasterHead](https://www.solunet.it/wp-content/uploads/2020/12/attacchi-informatici-768x403.jpg)
-<h1 align="center">Hi 👋 I'm Sager Verma (Art3mis)</h1>
+<h1 align="center">Hi 👋 I'm Sager Verma (Exxncatin)</h1>
 <h3 align="center">A passionate Programmer, Cybersecurity Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp?cid=82a1493bnpec9rwzbnqr2dcb93dhy6wn4smex0131kivjh0c&rid=giphy.webp&ct=g">
 
@@ -31,8 +31,7 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=SnowflAI&&theme=xcode)](https://github.com/SnowflAI)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Exxncatin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Art3mis" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Exxncatin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sager" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Exxncatin&show_icons=true&locale=en&theme=tokyonight" alt="Art3mis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Exxncatin&show_icons=true&locale=en&theme=tokyonight" alt="Sager" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SnowflAI&&theme=tokyonight" alt="Art3mis" /></p>
