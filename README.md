@@ -2,11 +2,6 @@
 $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
-...
-
-![Cyberpunk vibes](https://github.com/0x00er/0x00er/blob/main/Cyberpunk-9lgdkp.gif)
-
-...
   18 yo physics and computer science student from India
   Ace, amateur astronomer, astrophysics nerd, and all thing in-between
   (hacking, cyberpunk, photometry, zine writing, you name it!)
@@ -22,4 +17,3 @@ $  Connection Established...
   Exploits        Successfully navigating this crazy matrix we call life.
   ██████████░░░░░░░
   --------------  ----------------
-
