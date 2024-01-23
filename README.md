@@ -2,9 +2,14 @@
 $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
+...
+
+![Cyberpunk vibes](https://github.com/0x00er/0x00er/blob/main/Cyberpunk-9lgdkp.gif)
+
+...
   18 yo physics and computer science student from India
-  Ace, amateur astronomer, astrophysics nerd, and everything related  <img align="right" src="https://github.com/0x00er/0x00er/blob/main/Cyberpunk-9lgdkp.gif" alt="Cyberpunk GIF">
-  (hacking, cyberpunk, photometry, zine writing…)
+  Ace, amateur astronomer, astrophysics nerd, and all thing in-between
+  (hacking, cyberpunk, photometry, zine writing, you name it!)
 
   --------------  ----------------
   Uptime          18 cycles
@@ -13,8 +18,8 @@ $  Connection Established...
   Languages       Python, Bash, C/C++
   Author          Mom & Dad
   Blueprint       Open Source, no corpo ties! 😏
-  License         Public Domain. Use me however you want! 😏
-  Exploits        ██████████░░░░░░░
+  License         Public Domain. Fork me, remix me, do your thing!
+  Exploits        Successfully navigating this crazy matrix we call life.
+  ██████████░░░░░░░
   --------------  ----------------
-
 
