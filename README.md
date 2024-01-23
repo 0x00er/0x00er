@@ -3,7 +3,7 @@ $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
   18 yo physics and computer science student from India
-  Ace, amateur astronomer, astrophysics nerd, and everything related
+  Ace, amateur astronomer, astrophysics nerd, and everything related  <img align="right" src="https://github.com/0x00er/0x00er/blob/main/Cyberpunk-9lgdkp.gif" alt="Cyberpunk GIF">
   (hacking, cyberpunk, photometry, zine writing…)
 
   --------------  ----------------
