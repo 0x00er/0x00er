@@ -1,16 +1,19 @@
-### Hi there 👋
+```bash
+~ 
+❯ Hi there! 👋
+  18 yo physics and computer science student from India
+  Ace, amateur astronomer, astrophysics nerd, and everything related
+  (hacking, cyberpunk, photometry, zine writing…)
 
-<!--
-**0x00er/0x00er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  --------------  ----------------
+  Uptime          18 cycles
+  Cyberdeck       Fedora, Arch Linux
+  Shell           Zsh
+  Languages       Python, Bash, C/C++
+  Author          Mom & Dad
+  Blueprint       Open Source, no corpo ties! 😏
+  License         Public Domain. Use me however you want! 😏
+  Exploits        ██████████░░░░░░░
+  --------------  ----------------
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
