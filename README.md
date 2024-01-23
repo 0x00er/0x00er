@@ -1,6 +1,7 @@
 ```bash
+$  Connection Established...
 ~ 
-❯ Hi there! 👋
+❯ Hello netrunner! 👋
   18 yo physics and computer science student from India
   Ace, amateur astronomer, astrophysics nerd, and everything related
   (hacking, cyberpunk, photometry, zine writing…)
