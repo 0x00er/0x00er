@@ -11,7 +11,7 @@ $  Connection Established...
   Cyberdeck       Fedora, Arch Linux
   Shell           Zsh
   Languages       Python, Bash, C/C++
-  Author          Mom & Dad (built me from scratch!)
+  Author          Mom & Dad
   Blueprint       Open Source, no corpo ties! 😏
   License         Public Domain. Fork me, remix me, do your thing!
   Exploits        Successfully navigating this crazy matrix we call life.
