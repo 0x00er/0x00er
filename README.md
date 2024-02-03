@@ -2,7 +2,7 @@
 $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
-  18 yo physics and computer science student from India
+  17 yo physics and computer science student from India
   Ace, amateur astronomer, astrophysics nerd, and all thing in-between
   (hacking, cyberpunk, photometry, zine writing, you name it!)
 
