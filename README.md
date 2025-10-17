@@ -1,4 +1,4 @@
-```bash
+```rust
 $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
