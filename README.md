@@ -1,4 +1,4 @@
-```zsh
+```bash
 $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
