@@ -1,4 +1,4 @@
-```rust
+```python
 $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
