@@ -1,4 +1,4 @@
-```python
+```zsh
 $  Connection Established...
 ~ 
 ❯ Hello netrunner! 👋
